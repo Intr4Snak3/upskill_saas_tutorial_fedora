@@ -43,6 +43,9 @@ gem 'bootstrap-sass', '~> 3.4.0'
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '~> 5.6.1'
 
+# Use Hirb for better database table display in console
+gem 'hirb', '0.7.3'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
