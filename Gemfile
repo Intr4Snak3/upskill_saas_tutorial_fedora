@@ -46,6 +46,9 @@ gem 'font-awesome-sass', '~> 5.6.1'
 # Use Hirb for better database table display in console
 gem 'hirb', '0.7.3'
 
+# Use Devise for user authentication
+gem 'devise', '~> 4.2'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
